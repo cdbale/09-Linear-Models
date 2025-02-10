@@ -274,7 +274,7 @@ model_1 |>
 
 *Artwork by @allison_horst*
 
-## Exercise 10
+## Exercise 9
 
 1. Simulate sales data as a function of promotional spend using a regression. Name the observed variables `sales` and `promotional_spend`. Use different parameter values than we did in class.
 2. Visualize the simulated data and add the best fitting *line* using `geom_smooth()`.
